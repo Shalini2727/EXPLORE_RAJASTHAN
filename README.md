@@ -21,20 +21,6 @@ Explore Rajasthan is a responsive tourism website developed to showcase the cult
 - **Responsive Web Design** – Mobile and desktop compatibility
 - **Images & Videos** – Destination and tourism content
 
-## 📁 Project Structure
-
-```text
-EXPLORE_RAJASTHAN/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── images/
-│   └── Tourism images and media
-│
-└── README.md
-
 ## ▶️ How to Run
 Download or clone this repository.
 Open the project folder.
@@ -51,5 +37,19 @@ Multimedia integration
 User-friendly website navigation
 Responsive web design
 
-##📌 Project Type
+## 📌 Project Type
 Frontend Web Development Project
+
+## 📁 Project Structure
+
+```text
+EXPLORE_RAJASTHAN/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images/
+│   └── Tourism images and media
+│
+└── README.md
