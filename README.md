@@ -33,3 +33,24 @@ EXPLORE_RAJASTHAN/
 │   └── tourism images and media
 │
 └── README.md
+
+How to Run
+Download or clone this repository.
+Open the project folder.
+Open index.html in a web browser.
+Explore the different sections of the website.
+
+No server or database setup is required.
+
+Purpose
+
+This project was developed as a frontend web development project to practice:
+
+HTML page structure
+CSS styling and responsive layouts
+JavaScript interactions
+Multimedia integration
+User-friendly website navigation
+Project Type
+
+Frontend Web Development Project
